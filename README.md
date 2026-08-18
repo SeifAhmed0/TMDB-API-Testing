@@ -167,6 +167,3 @@ SEIF AHMED
 
 API Testing Assignment
 Postman | Newman | JavaScript
-
-**مهم:** لو أنت رافع الـNewman report فعلًا داخل فولدر `newman`، فالـREADME ده مناسب. ولو اسم ملف الـreport مختلف، بدّل الاسم في الأماكن المذكورة عشان الـREADME يطابق الـrepository بالظبط.
-```
