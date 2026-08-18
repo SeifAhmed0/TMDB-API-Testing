@@ -1,6 +1,6 @@
 # TMDB-API-Testing
 
-This repository contains my API Testing Assignment for **The Movie Database (TMDB) API**, implemented using **Postman** and executed using **Newman**.
+This repository contains my API Testing for **The Movie Database (TMDB) API**, implemented using **Postman** and executed using **Newman**.
 
 ## Tools & Technologies
 
