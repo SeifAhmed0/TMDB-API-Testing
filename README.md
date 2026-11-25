@@ -161,12 +161,13 @@ This behavior was documented as a testing finding rather than modifying the asse
 * **Postman Environment:** `TestingEnv.postman_environment.json`
 * **Newman Report:** `newman/TheMovieDatabaseAPI-2026-08-17-18-36-33-136-0.html`
 
+  API Testing Assignment
+Postman | Newman | JavaScript
+
 ## Author
 
-SEIF AHMED
+SEIF AHMED (Junior Software Test Engineer)
 
-API Testing Assignment
-Postman | Newman | JavaScript
 ---
 
 <p align="center">
