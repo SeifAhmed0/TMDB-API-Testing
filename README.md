@@ -167,3 +167,8 @@ SEIF AHMED
 
 API Testing Assignment
 Postman | Newman | JavaScript
+---
+
+<p align="center">
+  <img src="assets/SeifAhmedSignature.svg" alt="Seif Ahmed — Junior Software Test Engineer" width="380">
+</p>
